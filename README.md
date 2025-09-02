@@ -1,8 +1,6 @@
 Olá-👋
 
 - 😄 Nome : Gabriel Ribeiro de Menezes
-<img loading="lazy" src="./WhatsApp Image 2025-08-01 at 10.07.42.jpeg" width="400" height="320"/> 
-
 - ⚡ Gosto de futebol
 - 🏎️ Gosto de Formúla 1 2 e 3
 - 🎂Tenho 17 anos
