@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f942a61a-d4df-402f-b6fb-5d500526cce9" />Olá-👋
+Olá-👋
 
 - 😄 Nome : Gabriel Ribeiro de Menezes
 - ⚡ Gosto de futebol
