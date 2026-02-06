@@ -13,6 +13,9 @@ Olá-👋
 # Já aprendi
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png" width="80" height="80"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/960px-CSS3_logo_and_wordmark.svg.png" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80" height="80"/>
 
+# Plataformas Utilizadas
+<img loading="lazy" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" width="80" height="80"/>  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png" width="80" height="80"/> <img loading="lazy" src="https://meta-q.cdn.bubble.io/f1724444879574x558302733734816800/shrine20210628-1-zpgq9d.svg" width="80" height="80"/>
+
 
 
 <div>
