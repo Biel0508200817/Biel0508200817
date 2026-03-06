@@ -1,40 +1,108 @@
-# Olá, eu sou o Gabriel Ribeiro de Menezes! 👋
+<br>
 
-Um desenvolvedor apaixonado por tecnologia, futebol e velocidade (Fórmula 1, 2 e 3). Tenho 17 anos e estou sempre em busca de aprender novas ferramentas e construir projetos interessantes.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Gabriel+Ribeiro!+👋;Desenvolvedor+Web+%26+Mobile;Focado+em+React+%26+PWA;Apaixonado+por+Tecnologia+e+F1+🏎️" alt="Typing SVG" />
+</div>
+
+<br>
+
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="70%" valign="top" style="border: none;">
+      <h2>👨‍💻 Um pouco sobre mim</h2>
+      <p>Tenho 17 anos e sou movido pela curiosidade de aprender novas ferramentas e construir projetos que resolvam problemas reais (ou que sejam simplesmente muito legais de fazer!).</p>
+      <ul>
+        <li>💻 Focado em desenvolvimento <b>Web</b> e <b>Mobile</b>.</li>
+        <li>🌱 Mergulhando de cabeça no ecossistema <b>React</b>, <b>React Native</b> e <b>PWA</b>.</li>
+        <li>🏎️ Nas horas vagas, me encontre assistindo corridas ou futebol.</li>
+        <li>⚡ <b>Objetivo:</b> Evoluir 1% a cada dia como desenvolvedor e pessoa.</li>
+      </ul>
+    </td>
+    <td width="30%" align="center" valign="center" style="border: none;">
+      <img src="COLOQUE_O_LINK_DA_SUA_FOTO_AQUI.jpg" width="180" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5);" alt="Foto do Gabriel">
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-### 🚀 Tecnologias e Estudos
+### 🚀 Tecnologias e Ferramentas
 
-**Estudando Atualmente:**
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br>
 
-**Linguagens e Ferramentas que domino:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 💻 Linguagens e Frameworks
 
-**Plataformas Utilizadas:**
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**✅ Já tenho experiência:**
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,js,html,nodejs,css&theme=dark" alt="Linguagens que já aprendi" />
+  </a>
+</div>
+
+<br>
+
+
+
+**🌱 Estudando atualmente / Quero aprender:**
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,python,ts&theme=dark" alt="O que estou aprendendo" />
+  </a>
+  <br><br>
+</div>
+
+<br>
+
+#### 🛠️ Plataformas e Ferramentas
+
+**⚙️ Meu setup e ferramentas de trabalho:**
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,supabase,pycharm&theme=dark" alt="Plataformas e Ferramentas" />
+  </a>
+</div>
+
+<br>
+
+<br>
 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biel0508200817&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Gabriel" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel0508200817&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" width="48%" />
-</div>
+
 
 ---
 
+### 📁 Projetos em Destaque
+
+| 🏆 Projeto | 📋 Descrição do que foi feito | 🛠️ Stack |
+| :--- | :--- | :--- |
+| **[Nome do Projeto 1](link-do-repo)** | Breve descrição do problema que o projeto resolve. | `React` `Node.js` |
+| **[Nome do Projeto 2](link-do-repo)** | Breve descrição do problema que o projeto resolve. | `React Native` |
+
+<br>
+
+---
+
+### 📫 Bora trocar uma ideia?
+
+<div align="center">
+  <a href="seu-link-do-linkedin-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="link-do-seu-instagram-ou-twitter-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+<br>
+
 <p align="center">
-  <i>"A vida é como andar de bicicleta. Para ter equilíbrio, você tem que se manter em movimento."</i>
+  <i>"A vida é como andar de bicicleta. Para ter equilíbrio, você tem que se manter em movimento."</i> <br> — Albert Einstein
 </p>
