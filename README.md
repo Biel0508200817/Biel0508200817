@@ -1,8 +1,6 @@
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Gabriel+Ribeiro!+👋;Desenvolvedor+Web+%26+Mobile;Focado+em+React+%26+PWA;Apaixonado+por+Tecnologia+e+F1+🏎️" alt="Typing SVG" />
-</div>
+
 
 <br>
 
@@ -19,7 +17,7 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="center" style="border: none;">
-      <img src="COLOQUE_O_LINK_DA_SUA_FOTO_AQUI.jpg" width="180" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5);" alt="Foto do Gabriel">
+      <img src="1000391783.webp" width="180" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5);" alt="Foto do Gabriel">
     </td>
   </tr>
 </table>
