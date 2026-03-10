@@ -78,8 +78,9 @@
 
 | 🏆 Projeto | 📋 Descrição do que foi feito | 🛠️ Stack |
 | :--- | :--- | :--- |
-| **[Nome do Projeto 1](link-do-repo)** | Breve descrição do problema que o projeto resolve. | `React` `Node.js` |
-| **[Nome do Projeto 2](link-do-repo)** | Breve descrição do problema que o projeto resolve. | `React Native` |
+| **[gabriel-tv-f1](https://github.com/Biel0508200817/gabriel-tv-f1)** | Um site com corridas antigas da F1 | `HTML` `CSS` `JS` |
+| **[css-pokemon](https://github.com/Biel0508200817/css-pokemon)** | Um site explorando os tipos de CSS usando pokemons. | `HTML` `CSS` |
+| **[Meu Primeiro Portfólio](https://biel0508200817.github.io/)** | Um site com Meu Primeiro Portfólio | `HTML` `CSS` |
 
 <br>
 
@@ -89,14 +90,18 @@
 
 <div align="center">
   <a href="seu-link-do-linkedin-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:seu-email@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email">
   </a>
   <a href="link-do-seu-instagram-ou-twitter-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
+  <a href="https://wa.me/55DDDSEUNUMERO" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp">
+  </a>
+</div>
 </div>
 
 <br>
